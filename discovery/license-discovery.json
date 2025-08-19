@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T06:08:48.332Z",
-  "expiresAt": "2025-08-19T06:28:48.333Z",
-  "primary": "https://thompson-combat-config-shaft.trycloudflare.com",
+  "updatedAt": "2025-08-19T06:10:15.381Z",
+  "expiresAt": "2025-08-19T06:30:15.383Z",
+  "primary": "https://enjoy-elderly-sao-techniques.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "f136ad0197cb9095b2be200092c04eb3e0ccfe5c19d44657b7530cf08fa0b189"
+  "sig": "8d31c009a1cfbad9c205ef88aca328b29eddc73c766a9595fdf220ea8106a923"
 }
