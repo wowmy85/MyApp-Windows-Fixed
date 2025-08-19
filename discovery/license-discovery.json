@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T09:09:36.379Z",
-  "expiresAt": "2025-08-19T09:29:36.383Z",
-  "primary": "https://furniture-constantly-chemical-coupled.trycloudflare.com",
+  "updatedAt": "2025-08-19T09:57:14.386Z",
+  "expiresAt": "2025-08-19T10:17:14.387Z",
+  "primary": "https://en-analysts-breath-titles.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "861123528b7bde908a72aef66840deca52987961eeb4aefa1816751336a04d32"
+  "sig": "85eba3da75128228f5536f66cc452228c85ebbb110cc159385216206078b085e"
 }
