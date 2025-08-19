@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T10:06:11.359Z",
-  "expiresAt": "2025-08-19T10:26:11.360Z",
-  "primary": "https://counting-justin-architect-currency.trycloudflare.com",
+  "updatedAt": "2025-08-19T13:54:02.491Z",
+  "expiresAt": "2025-08-19T14:14:02.493Z",
+  "primary": "https://alternate-km-girl-paradise.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "ebc8f548835ac0a4ce187bc5104c77f23495ce2c42a46d3a5c477a437a679b59"
+  "sig": "2f31334a6bbaf1253c642dc2af75df5c07efc9f70a1d0c1e66f23d0aae4b56e3"
 }
