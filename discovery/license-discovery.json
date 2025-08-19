@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T06:01:45.380Z",
-  "expiresAt": "2025-08-19T06:21:45.381Z",
-  "primary": "https://releases-tension-product-thee.trycloudflare.com",
+  "updatedAt": "2025-08-19T06:08:48.332Z",
+  "expiresAt": "2025-08-19T06:28:48.333Z",
+  "primary": "https://thompson-combat-config-shaft.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "cb4f799cba514ecab385ea77c49ef5635954f75a51adfd04f18af7c7508935aa"
+  "sig": "f136ad0197cb9095b2be200092c04eb3e0ccfe5c19d44657b7530cf08fa0b189"
 }
