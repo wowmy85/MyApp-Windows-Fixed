@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T05:25:19.276Z",
-  "expiresAt": "2025-08-19T05:45:19.277Z",
-  "primary": "2025-08-19T05:25:18Z INF |  https://cultural-even-spas-instructor.trycloudflare.com                                   |",
+  "updatedAt": "2025-08-19T05:28:13.313Z",
+  "expiresAt": "2025-08-19T05:48:13.314Z",
+  "primary": "https://peer-normal-hospitals-experiment.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "745293e88b90e0c3480c6f05b2ccde764a01fa72c1c891964d8f4ea5df82b1e6"
+  "sig": "56e8cdbca0932117cc37be2aac54ab73a7049ff0dc50ac498084ef82b717683f"
 }
