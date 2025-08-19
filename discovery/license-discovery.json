@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T09:57:14.386Z",
-  "expiresAt": "2025-08-19T10:17:14.387Z",
-  "primary": "https://en-analysts-breath-titles.trycloudflare.com",
+  "updatedAt": "2025-08-19T09:58:00.351Z",
+  "expiresAt": "2025-08-19T10:18:00.353Z",
+  "primary": "https://wilderness-seems-obj-hours.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "85eba3da75128228f5536f66cc452228c85ebbb110cc159385216206078b085e"
+  "sig": "efdc989e0eab9ab031261f4285bf0db22fc7aefc5feff0148455928d44d88306"
 }
