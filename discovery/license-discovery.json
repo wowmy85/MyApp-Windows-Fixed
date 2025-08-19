@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T05:14:26.242Z",
-  "expiresAt": "2025-08-19T05:34:26.244Z",
-  "primary": "2025-08-19T05:14:26Z INF |  https://colin-shower-assists-festival.trycloudflare.com                                   |",
+  "updatedAt": "2025-08-19T05:25:19.276Z",
+  "expiresAt": "2025-08-19T05:45:19.277Z",
+  "primary": "2025-08-19T05:25:18Z INF |  https://cultural-even-spas-instructor.trycloudflare.com                                   |",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "f01449e217aabdacf9cc69b955d097c403e1f189189adac2460ef1cd326a5f4f"
+  "sig": "745293e88b90e0c3480c6f05b2ccde764a01fa72c1c891964d8f4ea5df82b1e6"
 }
