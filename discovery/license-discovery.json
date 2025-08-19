@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T09:58:00.351Z",
-  "expiresAt": "2025-08-19T10:18:00.353Z",
-  "primary": "https://wilderness-seems-obj-hours.trycloudflare.com",
+  "updatedAt": "2025-08-19T10:02:54.372Z",
+  "expiresAt": "2025-08-19T10:22:54.374Z",
+  "primary": "https://nations-toy-appliances-disclaimer.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "efdc989e0eab9ab031261f4285bf0db22fc7aefc5feff0148455928d44d88306"
+  "sig": "4615d5da1003caf89386a353aee3817800887a582a9a5931a5b6032523ed7be5"
 }
