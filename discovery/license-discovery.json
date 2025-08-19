@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T06:10:15.381Z",
-  "expiresAt": "2025-08-19T06:30:15.383Z",
-  "primary": "https://enjoy-elderly-sao-techniques.trycloudflare.com",
+  "updatedAt": "2025-08-19T07:13:04.387Z",
+  "expiresAt": "2025-08-19T07:33:04.388Z",
+  "primary": "https://kitty-improved-heat-queries.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "8d31c009a1cfbad9c205ef88aca328b29eddc73c766a9595fdf220ea8106a923"
+  "sig": "00365eca3a66dd8bf9e41065b5367b36368cccb6a5b68271978778668c40e896"
 }
