@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T05:40:37.382Z",
-  "expiresAt": "2025-08-19T06:00:37.383Z",
-  "primary": "https://son-convention-civilization-quarters.trycloudflare.com",
+  "updatedAt": "2025-08-19T06:01:45.380Z",
+  "expiresAt": "2025-08-19T06:21:45.381Z",
+  "primary": "https://releases-tension-product-thee.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "29538c4ee0902f81645fddd22c92310c35cb976001a963c28dff614739352cdc"
+  "sig": "cb4f799cba514ecab385ea77c49ef5635954f75a51adfd04f18af7c7508935aa"
 }
