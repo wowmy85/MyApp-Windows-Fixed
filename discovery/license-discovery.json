@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T13:54:02.491Z",
-  "expiresAt": "2025-08-19T14:14:02.493Z",
-  "primary": "https://alternate-km-girl-paradise.trycloudflare.com",
+  "updatedAt": "2025-08-19T15:44:43.331Z",
+  "expiresAt": "2025-08-19T16:04:43.332Z",
+  "primary": "https://evolution-female-sitting-outreach.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "2f31334a6bbaf1253c642dc2af75df5c07efc9f70a1d0c1e66f23d0aae4b56e3"
+  "sig": "a590bd4b785545a04d837588a25a7b20cd050650059503d5fc2d843e1e1ad4a7"
 }
