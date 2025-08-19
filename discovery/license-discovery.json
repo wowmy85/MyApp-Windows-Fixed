@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "updatedAt": "2025-08-19T05:13:11.218Z",
+  "expiresAt": "2025-08-19T05:33:11.220Z",
+  "primary": "2025-08-19T05:13:10Z INF |  https://prepaid-easy-scared-why.trycloudflare.com                                         |",
+  "fallback": [],
+  "path": "/api/validate-license",
+  "sig": "37d8a3daf3a50c15f64189ccd0e5726ab74022be9bccefadd8fd2ff5f189acf7"
+}
