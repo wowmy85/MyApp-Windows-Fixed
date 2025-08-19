@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T22:13:16.323Z",
-  "expiresAt": "2025-08-19T22:33:16.325Z",
-  "primary": "https://uruguay-horses-marketplace-expects.trycloudflare.com",
+  "updatedAt": "2025-08-19T22:15:51.295Z",
+  "expiresAt": "2025-08-19T22:35:51.296Z",
+  "primary": "https://blocked-internet-annotation-thehun.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "bde5af50fc66030cf4c3b018d41e2eaa6f9cd02b696852ec8c3630c9dcd48c77"
+  "sig": "3ecf6ac46d180a2610f0e7d435a67b0404fa5765a39e1347784d5c836b25684a"
 }
