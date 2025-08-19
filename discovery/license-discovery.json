@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T10:02:54.372Z",
-  "expiresAt": "2025-08-19T10:22:54.374Z",
-  "primary": "https://nations-toy-appliances-disclaimer.trycloudflare.com",
+  "updatedAt": "2025-08-19T10:06:11.359Z",
+  "expiresAt": "2025-08-19T10:26:11.360Z",
+  "primary": "https://counting-justin-architect-currency.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "4615d5da1003caf89386a353aee3817800887a582a9a5931a5b6032523ed7be5"
+  "sig": "ebc8f548835ac0a4ce187bc5104c77f23495ce2c42a46d3a5c477a437a679b59"
 }
