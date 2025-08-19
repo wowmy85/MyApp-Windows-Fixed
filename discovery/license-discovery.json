@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T05:28:13.313Z",
-  "expiresAt": "2025-08-19T05:48:13.314Z",
-  "primary": "https://peer-normal-hospitals-experiment.trycloudflare.com",
+  "updatedAt": "2025-08-19T05:31:05.309Z",
+  "expiresAt": "2025-08-19T05:51:05.310Z",
+  "primary": "https://sleeping-bennett-upgrade-beverage.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "56e8cdbca0932117cc37be2aac54ab73a7049ff0dc50ac498084ef82b717683f"
+  "sig": "8ea5ab954a9eb34ec52060e94a1ea8183e59d712700bfbc0a5884278a2347e6b"
 }
