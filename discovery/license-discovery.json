@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T15:44:43.331Z",
-  "expiresAt": "2025-08-19T16:04:43.332Z",
-  "primary": "https://evolution-female-sitting-outreach.trycloudflare.com",
+  "updatedAt": "2025-08-19T22:13:16.323Z",
+  "expiresAt": "2025-08-19T22:33:16.325Z",
+  "primary": "https://uruguay-horses-marketplace-expects.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "a590bd4b785545a04d837588a25a7b20cd050650059503d5fc2d843e1e1ad4a7"
+  "sig": "bde5af50fc66030cf4c3b018d41e2eaa6f9cd02b696852ec8c3630c9dcd48c77"
 }
