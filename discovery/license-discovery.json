@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-20T04:28:40.303Z",
-  "expiresAt": "2025-08-20T04:48:40.304Z",
-  "primary": "https://parent-warranties-earning-movement.trycloudflare.com",
+  "updatedAt": "2025-08-20T04:31:43.332Z",
+  "expiresAt": "2025-08-20T04:51:43.333Z",
+  "primary": "https://visual-sticky-said-psi.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "baec3e7f49139f11feffde8c26df3c751047bb90bb777f630ce397a54f2fde6f"
+  "sig": "ad0cde30df5b4677d78783edfa9c81b45be2419d4f1ffc29cadb8647a4149e92"
 }
