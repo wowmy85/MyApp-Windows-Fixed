@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-20T06:04:28.412Z",
-  "expiresAt": "2025-08-20T06:24:28.414Z",
-  "primary": "https://fired-releases-lamb-network.trycloudflare.com",
+  "updatedAt": "2025-08-20T15:30:59.393Z",
+  "expiresAt": "2025-08-20T15:50:59.413Z",
+  "primary": "https://disk-warner-michelle-earl.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "8e13426b4af2da10889c1b45abefe6d377ae894ed10a570adf61f955bb1aaad7"
+  "sig": "b0341d338fd00fb6d1ded31a6d890a5ee66006cb26c039bc8526c1d481a26339"
 }
