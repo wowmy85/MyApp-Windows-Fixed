@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-20T03:52:29.360Z",
-  "expiresAt": "2025-08-20T04:12:29.369Z",
-  "primary": "https://forwarding-nd-barnes-cleanup.trycloudflare.com",
+  "updatedAt": "2025-08-20T04:06:16.374Z",
+  "expiresAt": "2025-08-20T04:26:16.376Z",
+  "primary": "https://popularity-trim-monte-measure.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "4e524de8659408488f326ed5744d597d47cc05d24b1270924c9ec78e79a799db"
+  "sig": "d0d8b86de6706cb9ab8395d97555cb4c40bdb5cd30f0e60b8164eaa8c70c7458"
 }
