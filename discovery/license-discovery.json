@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-19T22:16:23.296Z",
-  "expiresAt": "2025-08-19T22:36:23.297Z",
-  "primary": "https://surface-arab-circles-flights.trycloudflare.com",
+  "updatedAt": "2025-08-20T03:52:29.360Z",
+  "expiresAt": "2025-08-20T04:12:29.369Z",
+  "primary": "https://forwarding-nd-barnes-cleanup.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "a5d016a64dc7b3d5f0bd379f08e8b9f1ff3113a9a7b803f62abc14cddc1a6540"
+  "sig": "4e524de8659408488f326ed5744d597d47cc05d24b1270924c9ec78e79a799db"
 }
