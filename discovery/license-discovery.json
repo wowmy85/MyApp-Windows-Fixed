@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-20T04:31:57.299Z",
-  "expiresAt": "2025-08-20T04:51:57.300Z",
-  "primary": "https://duty-cause-tariff-responses.trycloudflare.com",
+  "updatedAt": "2025-08-20T06:04:28.412Z",
+  "expiresAt": "2025-08-20T06:24:28.414Z",
+  "primary": "https://fired-releases-lamb-network.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "0a51ef60e66a1dcd3f03ccc7f462e12d02a22404a772053f071944bc4b0ddd10"
+  "sig": "8e13426b4af2da10889c1b45abefe6d377ae894ed10a570adf61f955bb1aaad7"
 }
