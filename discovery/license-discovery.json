@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-20T04:31:43.332Z",
-  "expiresAt": "2025-08-20T04:51:43.333Z",
-  "primary": "https://visual-sticky-said-psi.trycloudflare.com",
+  "updatedAt": "2025-08-20T04:31:57.299Z",
+  "expiresAt": "2025-08-20T04:51:57.300Z",
+  "primary": "https://duty-cause-tariff-responses.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "ad0cde30df5b4677d78783edfa9c81b45be2419d4f1ffc29cadb8647a4149e92"
+  "sig": "0a51ef60e66a1dcd3f03ccc7f462e12d02a22404a772053f071944bc4b0ddd10"
 }
