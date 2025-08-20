@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-20T04:10:19.360Z",
-  "expiresAt": "2025-08-20T04:30:19.361Z",
-  "primary": "https://doors-series-assistance-dakota.trycloudflare.com",
+  "updatedAt": "2025-08-20T04:28:40.303Z",
+  "expiresAt": "2025-08-20T04:48:40.304Z",
+  "primary": "https://parent-warranties-earning-movement.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "48cd2b018408d1988a9fd396390b3e60c002c0ad3054dbfe22c7b680b1f886f4"
+  "sig": "baec3e7f49139f11feffde8c26df3c751047bb90bb777f630ce397a54f2fde6f"
 }
