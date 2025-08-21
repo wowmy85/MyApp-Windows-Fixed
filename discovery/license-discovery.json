@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-21T10:09:04.317Z",
-  "expiresAt": "2025-08-21T10:29:04.318Z",
-  "primary": "https://easter-cancelled-september-usual.trycloudflare.com",
+  "updatedAt": "2025-08-21T10:57:13.345Z",
+  "expiresAt": "2025-08-21T11:17:13.347Z",
+  "primary": "https://aquarium-deadline-epa-organize.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "66ad2ce27f19da80e710cf3b7f38399b4724a3627fd9605978aa687e3847e792"
+  "sig": "d5d3d6f6a2de426e71d13a41f033fbb4e42f941d59430b79b0eec229a1d001f1"
 }
