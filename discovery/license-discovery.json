@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-21T09:14:28.290Z",
-  "expiresAt": "2025-08-21T09:34:28.293Z",
-  "primary": "https://longest-ja-versus-protective.trycloudflare.com",
+  "updatedAt": "2025-08-21T09:26:29.399Z",
+  "expiresAt": "2025-08-21T09:46:29.401Z",
+  "primary": "https://scout-arising-isle-jun.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "ba49dc5a63b010165d0f5f8a9ef7e6b8f29d0eb7f6f7f3ec3977909ebae529fc"
+  "sig": "d44df4dffe94447f3cec2dd942ea4c5d546daacb9f5993518e517644698de0b9"
 }
