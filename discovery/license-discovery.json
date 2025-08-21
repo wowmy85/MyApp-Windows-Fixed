@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-21T05:47:22.336Z",
-  "expiresAt": "2025-08-21T06:07:22.338Z",
-  "primary": "https://shaved-seeking-graphics-wash.trycloudflare.com",
+  "updatedAt": "2025-08-21T06:51:14.321Z",
+  "expiresAt": "2025-08-21T07:11:14.322Z",
+  "primary": "https://society-exist-oval-zoloft.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "3adfe35b8576c7145d6004f4f9ebc437a7d3c6730478e349954a260cf45f810a"
+  "sig": "1e56804fe1ec48cda1cebab451bb5bdaf2aaa14af34b3bdf4c0780dffac561ee"
 }
