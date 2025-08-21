@@ -1,9 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-21T06:51:14.321Z",
-  "expiresAt": "2025-08-21T07:11:14.322Z",
-  "primary": "https://society-exist-oval-zoloft.trycloudflare.com",
+  "updatedAt": "2025-08-21T09:14:28.290Z",
+  "expiresAt": "2025-08-21T09:34:28.293Z",
+  "primary": "https://longest-ja-versus-protective.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
-  "sig": "1e56804fe1ec48cda1cebab451bb5bdaf2aaa14af34b3bdf4c0780dffac561ee"
+  "heartbeatPath": "/api/heartbeat",
+  "sig": "ba49dc5a63b010165d0f5f8a9ef7e6b8f29d0eb7f6f7f3ec3977909ebae529fc"
 }
