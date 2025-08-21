@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-21T10:57:13.345Z",
-  "expiresAt": "2025-08-21T11:17:13.347Z",
-  "primary": "https://aquarium-deadline-epa-organize.trycloudflare.com",
+  "updatedAt": "2025-08-21T13:35:55.408Z",
+  "expiresAt": "2025-08-21T13:55:55.410Z",
+  "primary": "https://gallery-co-traffic-balloon.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "d5d3d6f6a2de426e71d13a41f033fbb4e42f941d59430b79b0eec229a1d001f1"
+  "sig": "3c6d4822c0a067022618eb7ea1cf9f4177e7f0502e77ddc7cfeabcbd90d2d73b"
 }
