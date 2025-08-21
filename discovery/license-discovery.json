@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-21T09:26:29.399Z",
-  "expiresAt": "2025-08-21T09:46:29.401Z",
-  "primary": "https://scout-arising-isle-jun.trycloudflare.com",
+  "updatedAt": "2025-08-21T10:09:04.317Z",
+  "expiresAt": "2025-08-21T10:29:04.318Z",
+  "primary": "https://easter-cancelled-september-usual.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "d44df4dffe94447f3cec2dd942ea4c5d546daacb9f5993518e517644698de0b9"
+  "sig": "66ad2ce27f19da80e710cf3b7f38399b4724a3627fd9605978aa687e3847e792"
 }
