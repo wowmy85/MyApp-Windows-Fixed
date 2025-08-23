@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-21T13:35:55.408Z",
-  "expiresAt": "2025-08-21T13:55:55.410Z",
-  "primary": "https://gallery-co-traffic-balloon.trycloudflare.com",
+  "updatedAt": "2025-08-23T12:03:33.291Z",
+  "expiresAt": "2025-08-23T12:23:33.292Z",
+  "primary": "https://antenna-goto-conversations-industries.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "3c6d4822c0a067022618eb7ea1cf9f4177e7f0502e77ddc7cfeabcbd90d2d73b"
+  "sig": "5d2c857932d84aab9768f55bb4351da024a2672149d26441fbc77b92ff8c1525"
 }
