@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-08-25T11:16:20.296Z",
-  "expiresAt": "2025-08-25T11:36:20.308Z",
-  "primary": "https://scheduling-behavioral-pr-flexibility.trycloudflare.com",
+  "updatedAt": "2025-09-04T14:44:38.365Z",
+  "expiresAt": "2025-09-04T15:04:38.374Z",
+  "primary": "https://countries-spot-new-morrison.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "1e824dda35091d753c1b203c2743710e0a61281e6f3d7a6e58b2695d956488c0"
+  "sig": "2c62c6960dc0936c6abe7fc6a9692c281d1898e206943de4bfa13572105de4b3"
 }
