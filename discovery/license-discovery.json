@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-05T07:19:23.356Z",
-  "expiresAt": "2025-09-05T07:39:23.359Z",
-  "primary": "https://tooth-paintings-contributed-pork.trycloudflare.com",
+  "updatedAt": "2025-09-05T08:35:23.403Z",
+  "expiresAt": "2025-09-05T08:55:23.405Z",
+  "primary": "https://proposals-structural-abandoned-andale.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "3fafa64ea153e553a3ae64465c6b534e26f441d1ea0747ec427218e2da2b5cb0"
+  "sig": "57fd8541ae50a7eb31b47f9abeb3f9d582fe7295ec717698b2aaa51eabb1963c"
 }
