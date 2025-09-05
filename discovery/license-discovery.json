@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-05T09:06:38.346Z",
-  "expiresAt": "2025-09-05T09:26:38.347Z",
-  "primary": "https://albania-beans-rebate-america.trycloudflare.com",
+  "updatedAt": "2025-09-05T10:58:15.403Z",
+  "expiresAt": "2025-09-05T11:18:15.411Z",
+  "primary": "https://lose-spare-employer-remembered.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "bd618ccf809d568f5feb66c23c1149a45eec414b2177cbf4305d45a2ef3a7899"
+  "sig": "7172d96ba7fd6b1d2a75bfef4cdc6b6d2e6e908a0ebe6fd5a730a9270b265760"
 }
