@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-05T11:02:40.405Z",
-  "expiresAt": "2025-09-05T11:22:40.407Z",
-  "primary": "https://mls-county-badge-load.trycloudflare.com",
+  "updatedAt": "2025-09-05T11:05:11.404Z",
+  "expiresAt": "2025-09-05T11:25:11.405Z",
+  "primary": "https://directive-meyer-simulation-canal.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "b39ccceec207a57117f4846afc63e79b9c8b8e2cf1f5928455f84cc7fac965e8"
+  "sig": "1153826507bab26f717cb4dc93476fffef60abe2a4ce8b7c1232791e4a02602e"
 }
