@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-05T03:56:37.269Z",
-  "expiresAt": "2025-09-05T04:16:37.271Z",
-  "primary": "https://ran-nr-times-flu.trycloudflare.com",
+  "updatedAt": "2025-09-05T07:19:23.356Z",
+  "expiresAt": "2025-09-05T07:39:23.359Z",
+  "primary": "https://tooth-paintings-contributed-pork.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "93b01039353dc28093e35b45edad01b0acb830268c28721b49a7378158fec3d9"
+  "sig": "3fafa64ea153e553a3ae64465c6b534e26f441d1ea0747ec427218e2da2b5cb0"
 }
