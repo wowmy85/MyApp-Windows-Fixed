@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-05T08:35:23.403Z",
-  "expiresAt": "2025-09-05T08:55:23.405Z",
-  "primary": "https://proposals-structural-abandoned-andale.trycloudflare.com",
+  "updatedAt": "2025-09-05T09:06:38.346Z",
+  "expiresAt": "2025-09-05T09:26:38.347Z",
+  "primary": "https://albania-beans-rebate-america.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "57fd8541ae50a7eb31b47f9abeb3f9d582fe7295ec717698b2aaa51eabb1963c"
+  "sig": "bd618ccf809d568f5feb66c23c1149a45eec414b2177cbf4305d45a2ef3a7899"
 }
