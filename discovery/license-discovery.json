@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-06T15:29:37.433Z",
-  "expiresAt": "2025-09-06T15:49:37.434Z",
-  "primary": "https://was-dear-washing-sequences.trycloudflare.com",
+  "updatedAt": "2025-09-06T15:34:16.368Z",
+  "expiresAt": "2025-09-06T15:54:16.370Z",
+  "primary": "https://belongs-assured-port-flickr.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "1937703a86c366e0b2d4ac9b54d3024da66e254f3c3a0b484f2ead761a3a42d4"
+  "sig": "e98737475ce1025444550122be37fb572039a1be7148f9bda4809b5ace0656a7"
 }
