@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-06T15:34:16.368Z",
-  "expiresAt": "2025-09-06T15:54:16.370Z",
-  "primary": "https://belongs-assured-port-flickr.trycloudflare.com",
+  "updatedAt": "2025-09-06T15:46:44.266Z",
+  "expiresAt": "2025-09-06T16:06:44.269Z",
+  "primary": "https://leu-tooth-favourites-highlighted.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "e98737475ce1025444550122be37fb572039a1be7148f9bda4809b5ace0656a7"
+  "sig": "a5a684e39616ce29e3915be686d0dd176bd74f9e9883b8b0e9dca3e24f34c045"
 }
