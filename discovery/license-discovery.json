@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-06T15:57:13.383Z",
-  "expiresAt": "2025-09-06T16:17:13.384Z",
-  "primary": "https://phantom-territories-note-bend.trycloudflare.com",
+  "updatedAt": "2025-09-06T16:30:24.489Z",
+  "expiresAt": "2025-09-06T16:50:24.491Z",
+  "primary": "https://gay-discrimination-featuring-albums.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "ea30d9757824a6832ef7fae5028820b01e683419dac992be2c190f542594c800"
+  "sig": "bdcaa749b4201f630720b147015d74d48b92324c36d153859e1c5a6cd4eb2598"
 }
