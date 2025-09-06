@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-05T11:05:11.404Z",
-  "expiresAt": "2025-09-05T11:25:11.405Z",
-  "primary": "https://directive-meyer-simulation-canal.trycloudflare.com",
+  "updatedAt": "2025-09-06T14:42:08.338Z",
+  "expiresAt": "2025-09-06T15:02:08.340Z",
+  "primary": "https://cell-purchasing-rep-tent.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "1153826507bab26f717cb4dc93476fffef60abe2a4ce8b7c1232791e4a02602e"
+  "sig": "f2f209e4ac74559a232eadebd3135416a7c2f6de9e93089c1945a37803c236c9"
 }
