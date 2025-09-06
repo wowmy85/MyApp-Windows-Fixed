@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-06T15:46:44.266Z",
-  "expiresAt": "2025-09-06T16:06:44.269Z",
-  "primary": "https://leu-tooth-favourites-highlighted.trycloudflare.com",
+  "updatedAt": "2025-09-06T15:57:13.383Z",
+  "expiresAt": "2025-09-06T16:17:13.384Z",
+  "primary": "https://phantom-territories-note-bend.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "a5a684e39616ce29e3915be686d0dd176bd74f9e9883b8b0e9dca3e24f34c045"
+  "sig": "ea30d9757824a6832ef7fae5028820b01e683419dac992be2c190f542594c800"
 }
