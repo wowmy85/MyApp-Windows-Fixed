@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-06T16:30:24.489Z",
-  "expiresAt": "2025-09-06T16:50:24.491Z",
-  "primary": "https://gay-discrimination-featuring-albums.trycloudflare.com",
+  "updatedAt": "2025-09-07T02:38:10.406Z",
+  "expiresAt": "2025-09-07T02:58:10.419Z",
+  "primary": "https://must-kirk-bold-binary.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "bdcaa749b4201f630720b147015d74d48b92324c36d153859e1c5a6cd4eb2598"
+  "sig": "ba7d7a33aaa7e840aeb5795060d33bbb570a50f3b86da2f6f568708490fbbe42"
 }
