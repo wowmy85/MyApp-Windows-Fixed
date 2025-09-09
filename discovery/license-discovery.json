@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-07T02:38:10.406Z",
-  "expiresAt": "2025-09-07T02:58:10.419Z",
-  "primary": "https://must-kirk-bold-binary.trycloudflare.com",
+  "updatedAt": "2025-09-09T22:15:53.326Z",
+  "expiresAt": "2025-09-09T22:35:53.358Z",
+  "primary": "https://organizational-philips-maintain-batteries.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "ba7d7a33aaa7e840aeb5795060d33bbb570a50f3b86da2f6f568708490fbbe42"
+  "sig": "0ce9f1558b2296daea975ef973dc95539595b46d903bd1e0bd362ffa10efc57f"
 }
