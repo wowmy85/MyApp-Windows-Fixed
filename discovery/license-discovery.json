@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-09T22:15:53.326Z",
-  "expiresAt": "2025-09-09T22:35:53.358Z",
-  "primary": "https://organizational-philips-maintain-batteries.trycloudflare.com",
+  "updatedAt": "2025-09-10T12:00:49.279Z",
+  "expiresAt": "2025-09-10T12:20:49.280Z",
+  "primary": "https://provides-pos-secretariat-side.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "0ce9f1558b2296daea975ef973dc95539595b46d903bd1e0bd362ffa10efc57f"
+  "sig": "57c0e94730adcc79399e4531fac47cced78c5c9fb6d33c378a5cce039e4dca10"
 }
