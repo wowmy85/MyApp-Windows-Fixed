@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-10T12:00:49.279Z",
-  "expiresAt": "2025-09-10T12:20:49.280Z",
-  "primary": "https://provides-pos-secretariat-side.trycloudflare.com",
+  "updatedAt": "2025-09-27T17:30:14.364Z",
+  "expiresAt": "2025-09-27T17:50:14.367Z",
+  "primary": "https://bookmark-besides-enterprises-kay.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "57c0e94730adcc79399e4531fac47cced78c5c9fb6d33c378a5cce039e4dca10"
+  "sig": "a5b398f8c01d4b3f2185a2dfc3993239ae4ec7a7a19b94aee939996e901245bc"
 }
