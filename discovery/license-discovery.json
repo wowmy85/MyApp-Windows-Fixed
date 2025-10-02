@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-10-02T14:10:58.304Z",
-  "expiresAt": "2025-10-02T14:30:58.321Z",
-  "primary": "https://step-johnston-dos-backgrounds.trycloudflare.com",
+  "updatedAt": "2025-10-02T16:23:41.374Z",
+  "expiresAt": "2025-10-02T16:43:41.390Z",
+  "primary": "https://racing-tattoo-rough-scoring.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "62161b761dbb5e5668edf7494e819057f9f19401e681e708ad51a6975fcc8d22"
+  "sig": "afd61fb8a0ee7c5a0a4a7a7b26b1e30e2ad5549e601468d74150ef7f715fc6c5"
 }
