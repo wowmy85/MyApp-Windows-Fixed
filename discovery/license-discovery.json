@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-09-27T17:30:14.364Z",
-  "expiresAt": "2025-09-27T17:50:14.367Z",
-  "primary": "https://bookmark-besides-enterprises-kay.trycloudflare.com",
+  "updatedAt": "2025-10-02T14:10:58.304Z",
+  "expiresAt": "2025-10-02T14:30:58.321Z",
+  "primary": "https://step-johnston-dos-backgrounds.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "a5b398f8c01d4b3f2185a2dfc3993239ae4ec7a7a19b94aee939996e901245bc"
+  "sig": "62161b761dbb5e5668edf7494e819057f9f19401e681e708ad51a6975fcc8d22"
 }
