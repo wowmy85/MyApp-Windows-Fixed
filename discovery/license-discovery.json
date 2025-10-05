@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-10-02T16:23:41.374Z",
-  "expiresAt": "2025-10-02T16:43:41.390Z",
-  "primary": "https://racing-tattoo-rough-scoring.trycloudflare.com",
+  "updatedAt": "2025-10-05T05:55:49.301Z",
+  "expiresAt": "2025-10-05T06:15:49.311Z",
+  "primary": "https://prior-truth-judge-representative.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "afd61fb8a0ee7c5a0a4a7a7b26b1e30e2ad5549e601468d74150ef7f715fc6c5"
+  "sig": "23a5ee8943e1b4cf08245109d3ae57e04325baa45a62afebced3f2b7174c432b"
 }
