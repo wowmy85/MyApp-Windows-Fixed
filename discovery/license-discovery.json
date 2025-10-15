@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-10-05T05:55:49.301Z",
-  "expiresAt": "2025-10-05T06:15:49.311Z",
-  "primary": "https://prior-truth-judge-representative.trycloudflare.com",
+  "updatedAt": "2025-10-15T11:17:06.364Z",
+  "expiresAt": "2025-10-15T11:37:06.375Z",
+  "primary": "https://entrepreneur-floating-emperor-algebra.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "23a5ee8943e1b4cf08245109d3ae57e04325baa45a62afebced3f2b7174c432b"
+  "sig": "87de707e436be14dc3a64054fe13c5ffccee09ee722eb5fd7f2c07d071428593"
 }
