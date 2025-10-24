@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-10-15T20:19:06.310Z",
-  "expiresAt": "2025-10-15T20:39:06.318Z",
-  "primary": "https://chance-editor-dns-remainder.trycloudflare.com",
+  "updatedAt": "2025-10-24T06:17:56.358Z",
+  "expiresAt": "2025-10-24T06:37:56.469Z",
+  "primary": "https://study-approaches-academic-heading.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "0b5f0241ee0f7138d22adb967214175aded78c1f1a1c97e8e2c1a2be6131c402"
+  "sig": "3c2d6869bf8e06b22f56ff9960f24ce9abe4f61979cdc6fd73ed42112fc88a28"
 }
