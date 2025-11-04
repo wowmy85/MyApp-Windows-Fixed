@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-10-24T06:17:56.358Z",
-  "expiresAt": "2025-10-24T06:37:56.469Z",
-  "primary": "https://study-approaches-academic-heading.trycloudflare.com",
+  "updatedAt": "2025-11-04T20:22:53.290Z",
+  "expiresAt": "2025-11-04T20:42:53.300Z",
+  "primary": "https://vegetarian-revelation-rise-bicycle.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "3c2d6869bf8e06b22f56ff9960f24ce9abe4f61979cdc6fd73ed42112fc88a28"
+  "sig": "7a8835f1cd5d02d1972a6144b765568980e100353ce4db377f35028c03ec9ab4"
 }
