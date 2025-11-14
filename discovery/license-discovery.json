@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-11-14T05:21:13.361Z",
-  "expiresAt": "2025-11-14T05:41:13.369Z",
-  "primary": "https://subsequent-cas-nasa-cork.trycloudflare.com",
+  "updatedAt": "2025-11-14T07:49:09.555Z",
+  "expiresAt": "2025-11-14T08:09:09.999Z",
+  "primary": "https://belly-surge-logic-culture.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "e5750ecbef9b49509eebdd6c15a21de9a6431960bb1dbcb1d417aac25d4cacc0"
+  "sig": "39325c581f55e5e6c74fd4017730287b58c43bab31ec4500bee98a3efcf7c3e4"
 }
