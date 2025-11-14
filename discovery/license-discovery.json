@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2025-11-04T20:22:53.290Z",
-  "expiresAt": "2025-11-04T20:42:53.300Z",
-  "primary": "https://vegetarian-revelation-rise-bicycle.trycloudflare.com",
+  "updatedAt": "2025-11-14T05:21:13.361Z",
+  "expiresAt": "2025-11-14T05:41:13.369Z",
+  "primary": "https://subsequent-cas-nasa-cork.trycloudflare.com",
   "fallback": [],
   "path": "/api/validate-license",
   "heartbeatPath": "/api/heartbeat",
-  "sig": "7a8835f1cd5d02d1972a6144b765568980e100353ce4db377f35028c03ec9ab4"
+  "sig": "e5750ecbef9b49509eebdd6c15a21de9a6431960bb1dbcb1d417aac25d4cacc0"
 }
